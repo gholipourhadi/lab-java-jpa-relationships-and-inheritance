@@ -1,0 +1,9 @@
+1. List 3 tasks that can be performed with native SQL but are hard or impossible with JPQL.
+
+- Using database-specific functions
+- Creating complex recursive queries
+- Using advanced window functions
+
+2. Explain why you might prefer using native SQL over JPQL in real-world projects.
+
+Native SQL can provide better performance, access to database-specific features, and more control over complex queries.
